@@ -2,8 +2,8 @@
 
 ##### using
 
--Node.js
--Express.js
--JWT
--Sequelize
--MySQL
+- Node.js
+- Express.js
+- JWT
+- Sequelize
+- MySQL
